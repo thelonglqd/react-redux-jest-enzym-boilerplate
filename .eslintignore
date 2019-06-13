@@ -1,0 +1,5 @@
+scripts/*
+config/*
+src/App.test.js
+src/index.js
+src/serviceWorker.js
